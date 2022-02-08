@@ -22,7 +22,7 @@ This package utilizes Elo-rating to assign scores to, and rank, stimuli that are
 
 Source code and installation instructions are here: [github](https://github.com/gobbios/EloChoice).
 
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/EloChoice)](https://cran.r-project.org/package=EloChoice)
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/EloChoice)](https://cran.r-project.org/package=EloChoice)
 
 # `avutils`
 

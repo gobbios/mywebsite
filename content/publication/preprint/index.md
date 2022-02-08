@@ -30,10 +30,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+title: Extending Bayesian Elo-rating to quantify dominance hierarchy steepness
+url_code: ""
 url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1101/2022.01.28.478016
 url_poster: '#'
 url_project: ""
 url_slides: ""
